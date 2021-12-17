@@ -1,0 +1,15 @@
+,Heart,Stroke,Lung,Stomach,Muscle,Emotional,Bladder,Headache,Weight,COVID
+Pain,1,0,0,0,1,0,1,0,0,1
+Short Breath,1,0,1,0,0,0,0,0,0,0
+Nausea,1,0,0,0,0,0,0,0,0,0
+Weakness,0,1,0,0,0,1,0,0,0,1
+Headache,0,1,0,0,0,1,0,1,0,1
+Dizziness,0,1,0,0,0,0,0,1,0,0
+Cough,0,0,1,0,0,0,0,0,0,1
+Diarrhoea,0,0,0,1,0,0,0,0,0,1
+Inflammation,0,0,0,1,1,0,0,0,0,0
+Vomiting,0,0,0,1,0,0,0,0,1,0
+Depression,0,0,0,0,0,1,0,0,1,0
+Urinal Blood,0,0,0,0,0,0,1,0,0,0
+Thirst,0,0,0,0,0,0,0,0,1,0
+Fever,0,0,0,0,0,0,0,0,0,1
