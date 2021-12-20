@@ -1,0 +1,21 @@
+{
+  "current_state": [
+    "ON B A",
+    "CLEAR B",
+    "CLEAR C",
+    "CLEAR D",
+    "TABLE A",
+    "TABLE C",
+    "TABLE D",
+    "ARMEMPTY"
+  ],
+  "goal_state": [
+    "ON C A",
+    "ON B D",
+    "CLEAR C",
+    "CLEAR B",
+    "TABLE A",
+    "TABLE D",
+    "ARMEMPTY"
+  ]
+}

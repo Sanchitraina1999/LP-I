@@ -1,0 +1,8 @@
+[
+  "__UNSTACK__ B A",
+  "__PUTDOWN__ B",
+  "__PICKUP__ C",
+  "__STACK__ C A",
+  "__PICKUP__ B",
+  "__STACK__ B D"
+]
